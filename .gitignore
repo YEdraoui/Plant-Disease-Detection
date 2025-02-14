@@ -1,0 +1,9 @@
+# Ignore dataset
+data/
+
+# Ignore virtual environment
+venv/
+
+# Ignore system files
+__pycache__/
+.DS_Store
