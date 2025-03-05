@@ -1,6 +1,3 @@
-# Ignore dataset
-data/
-
 # Ignore virtual environment
 venv/
 
